@@ -2,6 +2,7 @@
   "name": "pruefung_m324_glenn_vonwyl",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
